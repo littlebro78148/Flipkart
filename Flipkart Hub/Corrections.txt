@@ -1,0 +1,5 @@
+                                Corrections
+1.Slider Moving very fast Slow kerna Hai
+2.5th wala banner panel hai o niche nhi arha hai a_main5 class lga ke 
+3.ab bottom bala jo ham left riht kerte hai o nhi ana chahiye lekin aarha hai 
+4.ab login form ka jo text hai click kerne per uper jana chahiye per nhi ja rha hai 
